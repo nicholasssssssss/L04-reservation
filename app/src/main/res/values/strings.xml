@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-reservation</string>
+    <string name="no_of_people">No of People</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="select_date">Select Date:</string>
+    <string name="select_time">Select Time:</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="button">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="select_preferred_table">Select preferred table</string>
+    <string name="smoking_table">Smoking Table</string>
+    <string name="non_smoking_table">Non-Smoking Table</string>
+    <string name="name">Name</string>
+    <string name="namehint">name</string>
+    <string name="phone_number">81234567</string>
+</resources>
